@@ -2,13 +2,15 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Beyond the Binary
 logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+author: Dennis Vargas
+description: Bridging creativity and technology, I aim to build software that 
+  inspires. Let's harmonize on your next project, be it a game, app, 
+  website, or beyond.
+email: dvargassoftware@gmail.com
+phone: 
+address:
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
